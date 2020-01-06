@@ -1,0 +1,14 @@
+body{background-color: black;}
+#hotgirl{width: 500px; margin: auto}
+#hinhHG{width: 500px}
+a{color: yellow;text-decoration: none;padding: 10px;}
+a:hover{color: white;}
+#truoc{float: left}
+#trangchu{text-align: center;}
+#sau{float: right}
+
+#like,#dislike{width: 50px}
+
+#like{float: left}
+
+#dislike{float: right}
